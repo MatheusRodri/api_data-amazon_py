@@ -1,0 +1,830 @@
+{
+    "status": "OK",
+    "request_id": "63fa21d0-61aa-4c1a-a02c-170d6d67f544",
+    "parameters": {
+        "country": "US",
+        "categories": [
+            "eletronic"
+        ],
+        "price_range": "ALL",
+        "discount_range": "ALL",
+        "num_pages": 1
+    },
+    "data": {
+        "deals": [
+            {
+                "deal_id": "6a66f483",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Beats Solo 4 - Wireless Bluetooth On-Ear Headphones, Apple & Android Compatible, Up to 50 Hours of Battery Life - Matte Black",
+                "deal_photo": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Beats-Solo-Wireless-Headphones-Matte/dp/B0CZPLV566",
+                "canonical_deal_url": "https://www.amazon.com/deal/6a66f483",
+                "deal_starts_at": "2025-06-08T07:00:00.000Z",
+                "deal_ends_at": "2025-06-15T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "99.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "199.95",
+                    "currency": "USD"
+                },
+                "savings_percentage": 50,
+                "savings_amount": {
+                    "amount": "100.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "50% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CZPLV566"
+            },
+            {
+                "deal_id": "cabdd757",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Beats Studio Pro - Wireless Bluetooth Noise Cancelling Headphones - Personalized Spatial Audio, USB-C Lossless Audio, Apple & Android Compatibility, Up to 40 Hours Battery Life - Black",
+                "deal_photo": "https://m.media-amazon.com/images/I/61u-OaDSfQL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PR4W22",
+                "canonical_deal_url": "https://www.amazon.com/deal/cabdd757",
+                "deal_starts_at": "2025-06-08T07:00:00.000Z",
+                "deal_ends_at": "2025-06-15T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "169.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "349.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 51,
+                "savings_amount": {
+                    "amount": "180.04",
+                    "currency": "USD"
+                },
+                "deal_badge": "51% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0C8PR4W22"
+            },
+            {
+                "deal_id": "3f46a31e",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training, Running, Fitness, Muscle Building, Weight Loss, Weightlifting",
+                "deal_photo": "https://m.media-amazon.com/images/I/710yBz6hfUL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/ZELUS-Weighted-Reflective-Strength-Weightlifting/dp/B07518RBH2",
+                "canonical_deal_url": "https://www.amazon.com/deal/3f46a31e",
+                "deal_starts_at": "2025-06-09T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "31.44",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "36.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 15,
+                "savings_amount": {
+                    "amount": "5.55",
+                    "currency": "USD"
+                },
+                "deal_badge": "15% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07518RBH2"
+            },
+            {
+                "deal_id": "b5e72507",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "eufy Robot Vacuum Omni C20, Robot Vacuum and Mop Combo, Self Emptying, Auto Mop Washing and Auto Drying for Hands-free Cleaning, 7000 Pa Powerful Suction, 3.35-Inch Ultra-Slim Body, All-in-One Station",
+                "deal_photo": "https://m.media-amazon.com/images/I/61fPLtmoSNL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/eufy-Emptying-hands-free-3-35-Inch-Ultra-Slim/dp/B0DCFNZF32",
+                "canonical_deal_url": "https://www.amazon.com/deal/b5e72507",
+                "deal_starts_at": "2025-06-09T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "399.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "699.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 43,
+                "savings_amount": {
+                    "amount": "300.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "43% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DCFNZF32"
+            },
+            {
+                "deal_id": "8333eb30",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Giraffe Tools Retractable Garden Hose Reel 1/2 Inch x 130 ft, Super Heavy Duty, Any Length Lock, Slow Return System, Wall Mounted and 180 Deg Swivel Bracket",
+                "deal_photo": "https://m.media-amazon.com/images/I/71qngyqEVHL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Giraffe-Retractable-Mounted-180%C2%B0Swivel-Bracket/dp/B081W9LGL2",
+                "canonical_deal_url": "https://www.amazon.com/deal/8333eb30",
+                "deal_starts_at": "2025-06-09T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "156.78",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "195.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "39.21",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B081W9LGL2"
+            },
+            {
+                "deal_id": "afbbe0d8",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Beats Powerbeats Pro 2 Wireless Bluetooth Earbuds - Noise Cancelling, Heart Rate Monitor, IPX4, Up to 45H Battery & Charging Case, Works with Apple & Android - Jet Black",
+                "deal_photo": "https://m.media-amazon.com/images/I/51HOUQVBlsL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2344N3",
+                "canonical_deal_url": "https://www.amazon.com/deal/afbbe0d8",
+                "deal_starts_at": "2025-06-08T07:00:00.000Z",
+                "deal_ends_at": "2025-06-22T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "199.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "249.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "50.04",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DT2344N3"
+            },
+            {
+                "deal_id": "4b083354",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV Stick HD (newest model), free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
+                "deal_photo": "https://m.media-amazon.com/images/I/71rUQOC9BwL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/amazon-fire-tv-stick-hd/dp/B0CQMRKRV5",
+                "canonical_deal_url": "https://www.amazon.com/deal/4b083354",
+                "deal_starts_at": "2025-06-06T15:00:00.000Z",
+                "deal_ends_at": "2025-06-17T15:00:00.000Z",
+                "deal_price": {
+                    "amount": "19.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "34.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 43,
+                "savings_amount": {
+                    "amount": "15.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "43% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CQMRKRV5"
+            },
+            {
+                "deal_id": "29d86625",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Physician's CHOICE Probiotics for Women - PH Balance, Digestive, UT, & Feminine Health - 50 Billion CFU - 6 Unique Strains for Her - Organic Prebiotics, Cranberry Extract+ - Women Probiotic - 30 CT",
+                "deal_photo": "https://m.media-amazon.com/images/I/81dxDqjxq-L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Physicians-Choice-Probiotics-Women-Prebiotics/dp/B07B8BSGPL",
+                "canonical_deal_url": "https://www.amazon.com/deal/29d86625",
+                "deal_starts_at": "2025-06-09T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "21.57",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "29.38",
+                    "currency": "USD"
+                },
+                "savings_percentage": 27,
+                "savings_amount": {
+                    "amount": "7.81",
+                    "currency": "USD"
+                },
+                "deal_badge": "27% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07B8BSGPL"
+            },
+            {
+                "deal_id": "c46a86ff",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Echo Dot (newest model), Vibrant sounding Alexa speaker, Great for bedrooms, dining rooms and offices, Charcoal",
+                "deal_photo": "https://m.media-amazon.com/images/I/710exCeNPJL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon-vibrant-helpful-routines-Charcoal/dp/B09B8V1LZ3",
+                "canonical_deal_url": "https://www.amazon.com/deal/c46a86ff",
+                "deal_starts_at": "2025-06-08T04:00:00.000Z",
+                "deal_ends_at": "2025-06-16T03:55:00.000Z",
+                "deal_price": {
+                    "amount": "34.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 30,
+                "savings_amount": {
+                    "amount": "15.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "30% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09B8V1LZ3"
+            },
+            {
+                "deal_id": "30d4d265",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Ray-Ban Meta Glasses, Wayfarer",
+                "deal_photo": "https://m.media-amazon.com/images/I/511MY8Pec-L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Meta-Sunglasses-Graphite-Transitions-Regular/dp/B0DD65YPJV",
+                "canonical_deal_url": "https://www.amazon.com/deal/30d4d265",
+                "deal_starts_at": "2025-06-06T07:00:00.000Z",
+                "deal_ends_at": "2025-06-17T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "303.2",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "379.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "75.8",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DD65YPJV"
+            },
+            {
+                "deal_id": "4b083354",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV Stick 4K (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream over 1.5 million movies and shows, free & live TV",
+                "deal_photo": "https://m.media-amazon.com/images/I/71+Pvh7WB6L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-4K-streaming-device/dp/B0CJM1GNFQ",
+                "canonical_deal_url": "https://www.amazon.com/deal/4b083354",
+                "deal_starts_at": "2025-06-06T15:00:00.000Z",
+                "deal_ends_at": "2025-06-17T15:00:00.000Z",
+                "deal_price": {
+                    "amount": "29.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 40,
+                "savings_amount": {
+                    "amount": "20.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "40% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CJM1GNFQ"
+            },
+            {
+                "deal_id": "f57fd492",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Dreo Tower Fan for Bedroom, 25ft/s Velocity 28dB Quiet Floor Fan, 90\u00b0 Oscillating Fans for Indoors with 4 Speeds, 4 Modes, 8H Timer, Bladeless Standing Fan, Black, Nomad One (DR-HTF007)",
+                "deal_photo": "https://m.media-amazon.com/images/I/71gv46SSzvL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Dreo-Velocity-Oscillating-Bladeless-DR-HTF007/dp/B09MKPDJRT",
+                "canonical_deal_url": "https://www.amazon.com/deal/f57fd492",
+                "deal_starts_at": "2025-06-12T07:00:00.000Z",
+                "deal_ends_at": "2025-06-17T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "69.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "79.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 13,
+                "savings_amount": {
+                    "amount": "10.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "13% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09MKPDJRT"
+            },
+            {
+                "deal_id": "04410b44",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "TOLOCO Massage Gun, Deep Tissue Back Massage for Athletes for Pain Relief, Percussion Massager with 10 Massages Heads & Silent Brushless Motor, Gifts for Fathers Day, Black",
+                "deal_photo": "https://m.media-amazon.com/images/I/71SXDvzuSXL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/TOLOCO-Athletes-Percussion-Massager-Brushless/dp/B083L8RNJR",
+                "canonical_deal_url": "https://www.amazon.com/deal/04410b44",
+                "deal_starts_at": "2025-06-09T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "39.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "59.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 33,
+                "savings_amount": {
+                    "amount": "20.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "33% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B083L8RNJR"
+            },
+            {
+                "deal_id": "784be645",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Ring Battery Doorbell \u2014 Now with 66% more coverage, Head-to-Toe Video, Live View with Two-Way Talk, and Motion Detection & Alerts (2024 release), | 2-pack | Satin Nickel",
+                "deal_photo": null,
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/All-new-Ring-Battery-Doorbell-Head/dp/B0DJ31VZZ3",
+                "canonical_deal_url": "https://www.amazon.com/deal/784be645",
+                "deal_starts_at": "2025-06-05T04:00:00.000Z",
+                "deal_ends_at": "2025-06-16T04:00:00.000Z",
+                "deal_price": {
+                    "amount": "109.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "169.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 35,
+                "savings_amount": {
+                    "amount": "60.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "35% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DJ31VZZ3"
+            },
+            {
+                "deal_id": "1b35f0d8",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Kindle Scribe (64 GB) - Redesigned display with uniform borders. Now write directly on books and documents. With built-in notebook summarization. Includes Premium Pen - Tungsten",
+                "deal_photo": "https://m.media-amazon.com/images/I/71dzS8HxQFL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon-Kindle-Scribe/dp/B0CZ9T2C6B",
+                "canonical_deal_url": "https://www.amazon.com/deal/1b35f0d8",
+                "deal_starts_at": "2025-06-08T00:00:00.000Z",
+                "deal_ends_at": "2025-06-16T16:00:00.000Z",
+                "deal_price": {
+                    "amount": "349.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "449.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 22,
+                "savings_amount": {
+                    "amount": "100.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "22% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CZ9T2C6B"
+            },
+            {
+                "deal_id": "4848a2a8",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "ANRABESS Women Athletic Dress Summer Tennis Workout Active Sports Mini Romper Dress Built in Shorts Travel Vacation Clothes",
+                "deal_photo": "https://m.media-amazon.com/images/I/71RmpTnNWUL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/ANRABESS-Workout-Athleisure-Outfits-Vacation/dp/B0C69DCX7J",
+                "canonical_deal_url": "https://www.amazon.com/deal/4848a2a8",
+                "deal_starts_at": "2025-06-09T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "26.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "34.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 23,
+                "savings_amount": {
+                    "amount": "8.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "23% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0C69DCX7J"
+            },
+            {
+                "deal_id": "1fb913e2",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Fitbit Inspire 3 Health &-Fitness-Tracker with Stress Management, Workout Intensity, Sleep Tracking, 24/7 Heart Rate and more, Midnight Zen/Black One Size (S & L Bands Included)",
+                "deal_photo": "https://m.media-amazon.com/images/I/51CtR+quteL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Fitbit-Management-Intensity-Tracking-Midnight/dp/B0B5F9SZW7",
+                "canonical_deal_url": "https://www.amazon.com/deal/1fb913e2",
+                "deal_starts_at": "2025-06-01T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "79.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "99.95",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "20.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0B5F9SZW7"
+            },
+            {
+                "deal_id": "981e8141",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Beats Studio Buds + | True Wireless Noise Cancelling Earbuds, Enhanced Apple & Android Compatibility, Built-in Microphone, Sweat Resistant Bluetooth Headphones, Spatial Audio - Transparent",
+                "deal_photo": "https://m.media-amazon.com/images/I/51gtvMFl4CL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Beats-Cancelling-Compatibility-Microphone-Headphones/dp/B0BZK2Z2TC",
+                "canonical_deal_url": "https://www.amazon.com/deal/981e8141",
+                "deal_starts_at": "2025-06-08T07:00:00.000Z",
+                "deal_ends_at": "2025-06-15T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "99.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "169.95",
+                    "currency": "USD"
+                },
+                "savings_percentage": 41,
+                "savings_amount": {
+                    "amount": "70.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "41% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BZK2Z2TC"
+            },
+            {
+                "deal_id": "6cd0a1b9",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Ring Floodlight Cam Wired Pro with Bird\u2019s Eye View and 3D Motion Detection, White",
+                "deal_photo": "https://m.media-amazon.com/images/I/717eVlQ7zmL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Ring-Floodlight-Wired-Motion-Detection/dp/B0CG6VFFVL",
+                "canonical_deal_url": "https://www.amazon.com/deal/6cd0a1b9",
+                "deal_starts_at": "2025-06-05T04:00:00.000Z",
+                "deal_ends_at": "2025-06-19T04:00:00.000Z",
+                "deal_price": {
+                    "amount": "179.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "249.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 28,
+                "savings_amount": {
+                    "amount": "70.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "28% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CG6VFFVL"
+            },
+            {
+                "deal_id": "c46a86ff",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Echo Pop (newest model), Our smallest Alexa speaker, Fits in any room, Charcoal",
+                "deal_photo": "https://m.media-amazon.com/images/I/61V5FRUgX8L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon-Echo-Alexa-fits-anywhere/dp/B09WNK39JN",
+                "canonical_deal_url": "https://www.amazon.com/deal/c46a86ff",
+                "deal_starts_at": "2025-06-08T04:00:00.000Z",
+                "deal_ends_at": "2025-06-16T03:55:00.000Z",
+                "deal_price": {
+                    "amount": "24.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "39.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 38,
+                "savings_amount": {
+                    "amount": "15.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "38% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09WNK39JN"
+            },
+            {
+                "deal_id": "c9ac0433",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "JBL Vibe Beam - True Wireless JBL Deep Bass Sound Earbuds, Bluetooth 5.2, Water & Dust Resistant, Hands-free call with VoiceAware, Up to 32 hours of battery life (Black)",
+                "deal_photo": "https://m.media-amazon.com/images/I/41+1Csr1pSL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/JBL-Vibe-Beam-Wireless-Headphones/dp/B0BQPNMXQV",
+                "canonical_deal_url": "https://www.amazon.com/deal/c9ac0433",
+                "deal_starts_at": "2025-06-01T04:00:00.000Z",
+                "deal_ends_at": "2025-06-16T03:55:00.000Z",
+                "deal_price": {
+                    "amount": "39.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.95",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "10.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BQPNMXQV"
+            },
+            {
+                "deal_id": "45429e78",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "LEVOIT Air Purifiers for Bedroom Home, 3-in-1 Filter Cleaner with Fragrance Sponge for Better Sleep, Filters Smoke, Allergies, Pet Dander, Odor, Dust, Office, Desktop, Portable, Core Mini-P, White",
+                "deal_photo": "https://m.media-amazon.com/images/I/71tpOZEW0eL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/LEVOIT-Purifiers-Freshener-Core-Mini/dp/B09GTRVJQM",
+                "canonical_deal_url": "https://www.amazon.com/deal/45429e78",
+                "deal_starts_at": "2025-06-08T07:00:00.000Z",
+                "deal_ends_at": "2025-06-21T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "39.97",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "10.02",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09GTRVJQM"
+            },
+            {
+                "deal_id": "4b083354",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV Stick 4K Max streaming device (newest model) supports Wi-Fi 6E, free & live TV without cable or satellite",
+                "deal_photo": "https://m.media-amazon.com/images/I/71E1te69hZL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/all-new-amazon-fire-tv-stick-4k-max/dp/B0BP9SNVH9",
+                "canonical_deal_url": "https://www.amazon.com/deal/4b083354",
+                "deal_starts_at": "2025-06-06T15:00:00.000Z",
+                "deal_ends_at": "2025-06-17T15:00:00.000Z",
+                "deal_price": {
+                    "amount": "39.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "59.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 33,
+                "savings_amount": {
+                    "amount": "20.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "33% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BP9SNVH9"
+            },
+            {
+                "deal_id": "784be645",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Ring Outdoor Cam (Stick Up Cam) | Weather-Resistant Outdoor Camera, Live View, Color Night Vision, Two-Way Talk, Motion alerts, Works with Alexa | White",
+                "deal_photo": "https://m.media-amazon.com/images/I/41EMzkDF2KL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Ring-Outdoor-Weather-Resistant-Camera-Two-Way/dp/B0C5QRZ47P",
+                "canonical_deal_url": "https://www.amazon.com/deal/784be645",
+                "deal_starts_at": "2025-06-05T04:00:00.000Z",
+                "deal_ends_at": "2025-06-16T04:00:00.000Z",
+                "deal_price": {
+                    "amount": "59.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "79.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 25,
+                "savings_amount": {
+                    "amount": "20.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "25% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0C5QRZ47P"
+            },
+            {
+                "deal_id": "19ffcf17",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire 7 Kids tablet (newest model) ages 3-7. Top-selling 7\" kids tablet on Amazon. Includes ad-free and exclusive content, easy parental controls, 10-hr battery, 16 GB, Blue",
+                "deal_photo": "https://m.media-amazon.com/images/I/71dYNar+SfL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon-Fire-Kids-tablet-Top-selling/dp/B0BLBLRLJB",
+                "canonical_deal_url": "https://www.amazon.com/deal/19ffcf17",
+                "deal_starts_at": "2025-06-01T16:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:50:00.000Z",
+                "deal_price": {
+                    "amount": "64.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "109.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 41,
+                "savings_amount": {
+                    "amount": "45.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "41% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BLBLRLJB"
+            },
+            {
+                "deal_id": "8ab23bae",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Sports Research\u00ae Vegan D3 5000iu with Vitamin K2 100mg - Formulated with Coconut MCT Oil - Vegan Certified, Soy & Gluten Free - 60 Softgels",
+                "deal_photo": "https://m.media-amazon.com/images/I/512+wh1BkVL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Sports-Research%C2%AE-Vegan-5000iu-Vitamin/dp/B07255MPRN",
+                "canonical_deal_url": "https://www.amazon.com/deal/8ab23bae",
+                "deal_starts_at": "2025-06-09T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "21.56",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "23.95",
+                    "currency": "USD"
+                },
+                "savings_percentage": 10,
+                "savings_amount": {
+                    "amount": "2.39",
+                    "currency": "USD"
+                },
+                "deal_badge": "10% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07255MPRN"
+            },
+            {
+                "deal_id": "d1ba4a5d",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "baleaf Women's 8\"/ 5\"/ 3\" Biker Shorts High Waist Yoga Workout Gym Running Volleyball Spandex Shorts with Pockets",
+                "deal_photo": "https://m.media-amazon.com/images/I/51i9uRh7YBL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/BALEAF-Womens-Workout-Control-Pockets/dp/B074SHQ18W",
+                "canonical_deal_url": "https://www.amazon.com/deal/d1ba4a5d",
+                "deal_starts_at": "2025-06-09T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "14.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "26.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 44,
+                "savings_amount": {
+                    "amount": "12.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "44% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B074SHQ18W"
+            },
+            {
+                "deal_id": "cecd36f7",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "EGO Power+ LM2135SP 21-Inch Self-Propelled Lawn Mower Kit (7.5Ah Battery and Rapid Charger Included), get (1) extra BA2800T 5.0Ah Battery",
+                "deal_photo": "https://m.media-amazon.com/images/I/61ai6ulO+DL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/EGO-Power-LM2135SP-Self-Propelled-Technology/dp/B0CTL2QFN7",
+                "canonical_deal_url": "https://www.amazon.com/deal/cecd36f7",
+                "deal_starts_at": "2025-06-01T07:00:00.000Z",
+                "deal_ends_at": "2025-07-01T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "599.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "1048.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 43,
+                "savings_amount": {
+                    "amount": "449.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "43% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CTL2QFN7"
+            },
+            {
+                "deal_id": "ffd61ecc",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs, Rubber Backing Quick Dry, Machine Washable Bath Mats for Bathroom Floor, Tub and Shower, Home Decor Accessories, Grey",
+                "deal_photo": "https://m.media-amazon.com/images/I/91MTW21x7pL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/OLANLY-Bathroom-Absorbent-Chenille-Non-Slip/dp/B0CFGYFCYL",
+                "canonical_deal_url": "https://www.amazon.com/deal/ffd61ecc",
+                "deal_starts_at": "2025-06-09T07:00:00.000Z",
+                "deal_ends_at": "2025-06-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "8.97",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "14.98",
+                    "currency": "USD"
+                },
+                "savings_percentage": 40,
+                "savings_amount": {
+                    "amount": "6.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "40% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CFGYFCYL"
+            },
+            {
+                "deal_id": "259f24ab",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Waterpik Cordless Pulse Rechargeable Portable Water Flosser for Teeth, Gums, Braces Care and Travel with 2 Flossing Tips, Waterproof, ADA Accepted, WF-20 White, Packaging May Vary",
+                "deal_photo": "https://m.media-amazon.com/images/I/71oUe+NcxmL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Waterproof/dp/B0CNTRVZPW",
+                "canonical_deal_url": "https://www.amazon.com/deal/259f24ab",
+                "deal_starts_at": "2025-06-03T07:00:00.000Z",
+                "deal_ends_at": "2025-06-17T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "39.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "10.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CNTRVZPW"
+            }
+        ],
+        "total_deals": 500,
+        "country": "US",
+        "domain": "www.amazon.com"
+    }
+}
