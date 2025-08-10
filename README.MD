@@ -4,6 +4,13 @@ O projeto se trata um conjunto com duas funções:
 A primeira função(main.py) é fazer a requisição a uma API da Amazon, disponibilizado pelo site rapidapi.com e gerar um arquivo JSON com os dados dos mais vendidos de uma determinada categoria de produtos.
 A segunda função(main.ipynb) é um notebook Jupyter que lê o arquivo JSON gerado pela primeira função e faz alguns tratamentos nos dados.
 
+# Requisitos
+- Editor de códgo ( VSCode...)
+	- Caso opte pelo vscode, instalar as seguintes extensões
+		- Python
+		- Jupyter
+- Python instalado com computador
+- 
 
 
 # Tecnologias utilizadas
