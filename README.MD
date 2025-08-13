@@ -1,25 +1,31 @@
-# Sobre o projeto
+# 🚀 DATA AMAZON
 
-O projeto se trata um conjunto com duas funções:
-A primeira função(main.py) é fazer a requisição a uma API da Amazon, disponibilizado pelo site rapidapi.com e gerar um arquivo JSON com os dados dos mais vendidos de uma determinada categoria de produtos.
-A segunda função(main.ipynb) é um notebook Jupyter que lê o arquivo JSON gerado pela primeira função e faz alguns tratamentos nos dados.
+O projeto se trata, do consumo da API da Amazon, disponibilizado pelo site rapidapi.com, para obter dados dos produtos mais vendidos em uma determinada categoria e logo em seguida uma breve analise dos dados.
 
-# Requisitos
-- Editor de códgo ( VSCode...)
-	- Caso opte pelo vscode, instalar as seguintes extensões
-		- Python
-		- Jupyter
-- Python instalado com computador
-- 
+---
 
+## ✅ Requisitos
 
-# Tecnologias utilizadas
-- Back end
-    - Python
+Antes de executar o projeto, certifique-se de ter os seguintes requisitos instalados:
 
+- Python 3.8 ou superior
+- Editor de código (VSCode, PyCharm, etc.)
+---
 
+## 🛠 Tecnologias Utilizadas
 
-# Como executar o projeto
+O projeto foi construído com as seguintes tecnologias:
+
+### 🔙 Back-end
+- Python
+	- Requests
+	- Pandas
+
+---
+
+## ▶️ Como Executar o Projeto
+
+Siga os passos abaixo para rodar o projeto localmente:
 
 - Clone ou baixe o repositório
 - Inicie o ambiente virtual com `python -m venv .venv`
@@ -29,4 +35,3 @@ A segunda função(main.ipynb) é um notebook Jupyter que lê o arquivo JSON ger
 - Opcional, pode deletar o arquivo `amazon-data.json` para gerar um novo arquivo com a função `main.py`
 - Execute o script com `python main.py` para gerar o arquivo JSON ( Caso tenha deletado o arquivo `amazon-data.json`)
 - Execute o notebook `main.ipynb` para ler o arquivo JSON e fazer os tratamentos nos dados
-
