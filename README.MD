@@ -28,9 +28,11 @@ O projeto foi construído com as seguintes tecnologias:
 Siga os passos abaixo para rodar o projeto localmente:
 
 - Clone ou baixe o repositório
-- Inicie o ambiente virtual com `python -m venv .venv`
-- Ative o ambiente virtual com `source .venv/bin/activate` (Linux ou MacOs) ou `.venv\Scripts\activate` (Windows) 
-- Instale as dependências com `pip install -r requirements.txt`
+- Navegue até o diretório do projeto pelo terminal
+- Crie o ambiente e instale as dependências com o comando:
+  ```bash
+  conda env create -f environment.yml
+  ```
 - Duplique o arquivo `header-sample.py` para `header.py` e adicione as credenciais da sua conta do rapidapi.com
 - Opcional, pode deletar o arquivo `amazon-data.json` para gerar um novo arquivo com a função `main.py`
 - Execute o script com `python main.py` para gerar o arquivo JSON ( Caso tenha deletado o arquivo `amazon-data.json`)

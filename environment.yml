@@ -1,0 +1,14 @@
+name: data-amazon
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - pip
+  - pandas
+  - numpy
+  - jupyterlab
+  - beautifulsoup4
+  - requests
+  - httpx
+  - pyyaml
